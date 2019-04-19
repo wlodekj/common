@@ -1,6 +1,6 @@
 {
-    "name": "prooph/common",
-    "description": "Common classes used across prooph packages",
+    "name": "wlodekj/common",
+    "description": "Common classes used across prooph packages - updated to user Ramsey UUID 3.x version",
     "type": "library",
     "authors": [
         {
